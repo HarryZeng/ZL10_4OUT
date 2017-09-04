@@ -1,0 +1,17 @@
+..\output\menu.o: ..\Peripherals\src\menu.c
+..\output\menu.o: ..\Peripherals\inc\zl10_4out.h
+..\output\menu.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+..\output\menu.o: ..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+..\output\menu.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\menu.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+..\output\menu.o: ..\Peripherals\inc\stm32f10x_conf.h
+..\output\menu.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+..\output\menu.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+..\output\menu.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+..\output\menu.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+..\output\menu.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+..\output\menu.o: ..\Peripherals\inc\menu.h
+..\output\menu.o: ..\Peripherals\inc\main.h
+..\output\menu.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\output\menu.o: ..\Peripherals\inc\key.h
+..\output\menu.o: ..\Peripherals\inc\display.h
